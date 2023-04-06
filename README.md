@@ -16,11 +16,10 @@ Alguns dos pontos mais importantes:
 
 # Tecnologias usadas
 
-  * PostgreSQL
-  * TypeORM
-  * TypeScript
-  * JsonWebToken
-  * DotEnv
+  * Python
+  * Django
+  * Djangorestframework
+  * Black
 
 # Baixar dependências 
 ````
